@@ -1,0 +1,265 @@
+style.css
+
+body {
+    background-image: url('..//index.css/Golden_and_rosed_marble_texture.jpg');
+    background-size: cover;
+    }
+body {
+    background-image: url('..//index.css/Golden_and_rosed_marble_texture.jpg');
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    text-align: center;
+    border-bottom: 10px solid gold;
+}
+h1 {
+    font-family: "Dancing Script", 'Tangerine', sans-serif;
+    text-align: center;
+    font-size: 300px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 300px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+strong {
+    font-size: 300px;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#logo-1{
+    display: inline-flex;
+    height: 500px;
+    width: 700px;
+    padding: 0px;
+    margin-top: 80px;
+    margin-left: 200px;
+    border: none;
+}
+
+#logo-2 {
+    height: 500px;
+    width: 700px;
+    margin: auto;
+    margin-left: 500px;
+    border: none;
+}
+
+h3 {
+    display:flex;
+    font-family: "Dancing Script", 'Tangerine', sans-serif;
+    text-align: center;
+    font-size: 200px;
+    font-weight: 200;
+    text-align: center;
+    margin: auto;
+    padding-left: 2000px;
+    background-image: url('./fly-d-0zvkTWsXJQE-unsplash.jpg');
+
+}
+ .right-leaf1 {
+        display:inline-flex;
+        border:none;
+        height: 2000px;
+        margin-top: 100px;
+        margin-left: 20px;
+}
+.navbar{
+    display: flex;
+}
+/* finish linking elements */
+a {
+    display:inline-flex;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:120px;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    margin-left: 150px;
+    font-weight: 300;
+    padding-right:50px;
+}
+a:hover{
+    color: gold;
+    font-weight: 200;
+}
+#about{
+    display: flex;
+}
+.studio{
+    display: flex;
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 900px;
+    height: 2000px;
+    width: 3500px;
+    border: 15px solid gold;
+    position: static;
+}
+#description{
+    flex-direction: column;
+    position: absolute;
+    top: 1900px;
+    left: 400px;
+    margin-left: 800px;
+    margin-right: 1200px;
+    font-family: "Dancing Script", cursive, sans-serif;
+    font-size: 100px;
+    letter-spacing: 2px;
+    font-weight: 400;
+    background-color: #FA5E6E;
+    opacity: 0.9;
+}
+/* nail section */
+#nails-1{
+    display: flex;
+}
+h4{
+    position: absolute;
+    font-family: "Dancing Script", 'Tangerine', sans-serif;
+    left: 750px;
+    top: 3500px;
+    font-size: 200px;
+    font-weight: 400;
+    margin-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px; 
+    background-image: url('./fly-d-0zvkTWsXJQE-unsplash.jpg');
+    border-bottom: 10px solid gold;
+}
+#nails {
+    font-size: 200px;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+figcaption {
+    font-family: "Dancing Script", monospace, sans-serif;
+    font-size: 100px;
+    font-weight: 400;
+    position: relative;
+    
+}
+
+img{
+    border: 10px solid gold;
+}
+
+
+
+
+.a{
+    position: absolute;
+    left: 750px;
+    margin-right: 8000px;
+    margin-top: 1000px;
+}
+.b{
+    position: absolute;
+    left: 2050px;
+    margin-right: 8000px;
+    margin-top: 800px;
+}
+
+.c{
+    position: absolute;
+    left: 3550px;
+    margin-right: 7000px;
+    margin-top: 500px;
+}
+.d{
+    position: absolute;
+    left: 3350px;
+    margin-right: 7000px;
+    margin-top: 1650px;
+    
+}
+
+.e{
+    position: absolute;
+    left: 2050px;
+    margin-right: 7000px;
+    margin-top: 2150px;
+    
+}
+.f{
+    position: absolute;
+    left: 1050px;
+    margin-right: 7000px;
+    margin-top: 2150px;
+    
+}
+.g{
+    position: absolute;
+    left: 4050px;
+    margin-right: 7000px;
+    margin-top: 3050px;
+}
+.h{
+    position: absolute;
+    left: 450px;
+    margin-right: 7000px;
+    margin-top: 3050px;
+}
+/* Bath products */
+
+#bath {
+    display: flex;
+}
+#bath-products {
+    font-size: 200px;
+    font-weight: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+.left-leaf{
+    display:inline-flex;
+    border:none;
+    height: 3000px;
+    margin-top: 900px;
+    margin-left: 100px;
+}
+#bp{
+    position: absolute;
+    font-family: "Dancing Script", 'Tangerine', sans-serif;
+    left: 1250px;
+    top: 7500px;
+    font-size: 200px;
+    font-weight: 400;
+    margin-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px; 
+    background-image: url('./fly-d-0zvkTWsXJQE-unsplash.jpg');
+    border-bottom: 10px solid gold;
+}
+/* change to right leaf */
+.left-leaf2{
+    display:inline-flex;
+    border:none;
+    height: 2400px;
+    margin-top: 4300px;
+    margin-left: 2200px;
+}
+
+.b-des{
+    position: absolute;
+    font-family: "Dancing Script", 'Tangerine', sans-serif;
+    left: 750px;
+    top: 7800px;
+    font-size: 100px;
+    font-weight: 400;
+    margin-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px; 
+    background-image: url('./fly-d-0zvkTWsXJQE-unsplash.jpg');
+    border-bottom: 10px solid gold;
+}
